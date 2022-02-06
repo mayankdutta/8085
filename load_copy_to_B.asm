@@ -1,0 +1,6 @@
+; Mayank Dutta
+; 19BEE050
+
+LDA 2500H
+MOV B, A
+HLT
